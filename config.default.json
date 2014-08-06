@@ -1,0 +1,10 @@
+{
+  "local": {
+    "path": "/tmp"
+  },
+  "https": {
+    "hostname": "index.docker.io",
+    "auth": "user:pass",
+    "rejectUnauthorized": true
+  }
+}
